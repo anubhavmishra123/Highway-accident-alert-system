@@ -13,6 +13,9 @@ Alert API:
 After Successful classification, if the accident is detected in the live video feed
 the notification is sent automatically to a nearby hospital. For Alerting a simple An API (TXTIND) is used which can send the location of the accident via SMS to the authorities.
 
+Model Performance and Accuracy
+
+< img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/performace.png" width="300" height="400">
 
 
 Block Diagram
@@ -21,15 +24,15 @@ Block Diagram
 
 Screenshots
 
-<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot1.png" width="300" height="300">
+<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot1.png" width="300" height="400">
 
-<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot2.png" width="300" height="300">
+<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot2.png" width="300" height="400">
 
-<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/Screenshot4.png" width="300" height="300">
+<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/Screenshot4.png" width="300" height="400">
 
 
-<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot3.png" width="300" height="300">
+<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot3.png" width="300" height="400">
 
 Alert
-<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot%205.png" width="300" height="300">
+<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot%205.png" width="300" height="400">
 
