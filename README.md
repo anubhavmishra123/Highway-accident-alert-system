@@ -15,7 +15,7 @@ the notification is sent automatically to a nearby hospital. For Alerting a simp
 
 Model Performance and Accuracy
 
-< img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/performace.png" width="300" height="400">
+<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/performace.png" width="400" height="300">
 
 
 Block Diagram
@@ -24,15 +24,15 @@ Block Diagram
 
 Screenshots
 
-<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot1.png" width="300" height="400">
+<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot1.png" width="400" height="300">
 
-<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot2.png" width="300" height="400">
+<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot2.png" width="400" height="300">
 
-<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/Screenshot4.png" width="300" height="400">
+<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/Screenshot4.png" width="400" height="300">
 
 
-<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot3.png" width="300" height="400">
+<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot3.png" width="400" height="300">
 
 Alert
-<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot%205.png" width="300" height="400">
+<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot%205.png" width="400" height="300">
 
