@@ -33,6 +33,7 @@ Screenshots
 
 <img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot3.png" width="400" height="300">
 
-Alert
+Alert Message
+
 <img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot%205.png" width="400" height="300">
 
