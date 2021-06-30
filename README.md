@@ -15,7 +15,7 @@ the notification is sent automatically to a nearby hospital. For Alerting a simp
 
 Model Performance and Accuracy
 
-<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/performace.png" width="400" height="300">
+<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/performace.png" width="250" height="200">
 
 
 Block Diagram
