@@ -9,12 +9,11 @@ Block Diagram
 
 Screenshots
 
-![screenshot](https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot1.png)
+<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot1.png" width="300" height="300">
 
-![Screenshot](https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot2.png)
+<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot2.png" width="300" height="300">
 
-![Screenshot](https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot3.png)
+<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot3.png" width="300" height="300">
 
 Alert
-
-![alert](https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot%205.png)
+<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot%205.png" width="300" height="300">
