@@ -13,7 +13,11 @@ Screenshots
 
 <img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot2.png" width="300" height="300">
 
+<img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/Screenshot4.png" width="300" height="300">
+
+
 <img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot3.png" width="300" height="300">
 
 Alert
 <img src="https://github.com/anubhavmishra123/Highway-accident-alert-system/blob/main/screenshot%205.png" width="300" height="300">
+
